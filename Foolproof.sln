@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foolproof", "Foolproof\Foolproof.csproj", "{8C1D114D-09A2-4B02-8A1C-3BF8CCF79A42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foolproof.UITests", "Foolproof.UITests\Foolproof.UITests.csproj", "{2DA900EE-9D3A-4228-BFA6-7DBCC64888AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA900EE-9D3A-4228-BFA6-7DBCC64888AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA900EE-9D3A-4228-BFA6-7DBCC64888AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA900EE-9D3A-4228-BFA6-7DBCC64888AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA900EE-9D3A-4228-BFA6-7DBCC64888AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C1D114D-09A2-4B02-8A1C-3BF8CCF79A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1D114D-09A2-4B02-8A1C-3BF8CCF79A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1D114D-09A2-4B02-8A1C-3BF8CCF79A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1D114D-09A2-4B02-8A1C-3BF8CCF79A42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

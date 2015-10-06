@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Foolproof\Foolproof.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Foolproof\MainActivity.cs">
+    <Files>
+      <File FileName="Foolproof\MainActivity.cs" Line="43" Column="38" />
+      <File FileName="Foolproof\Answer.cs" Line="21" Column="2" />
+      <File FileName="Foolproof\Resources\values\Strings.xml" Line="3" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Foolproof AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
